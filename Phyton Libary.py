@@ -11,3 +11,5 @@ print(boykilo)
 
 from sklearn.impute import SimpleImputer
 imputer= SimpleImputer(mising_values=np.nan,strategy="mean")
+
+#test github
